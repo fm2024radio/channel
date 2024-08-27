@@ -1,8 +1,7 @@
 {
     "TV 5": "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8",
-    "GMA 7": "http://sansat.net:88/series/AiYgkZinaoYKMSz/kRXuZs8hTsmOod4/625840.mkv",
+    "SMNI NEWS": "https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8",
     "RPTV": "https://notflix-s1.13l.link/stream/notflix/rptv/stream.m3u8?uid=924901678&u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d",
-    "KAPAMILYA LIVE CHANNEL": "https://notflix-s1.13l.link/stream/notflix/kapamilya/stream.m3u8?uid=3781956266&u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d",
     "NBA TV PHILIPPINES": "https://notflix-s1.13l.link/stream/notflix/nbaph/stream.m3u8?uid=1326100477&u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d",
     "CINEMA ONE": "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8",
     "ANC HD": "https://notflix-s1.13l.link/stream/notflix/kapamilya/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d",
